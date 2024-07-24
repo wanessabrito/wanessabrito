@@ -8,12 +8,11 @@
   <div>
     <!-- cat -->
   </div>
-  <img src="[![image](https://github.com/user-attachments/assets/cc714505-7769-44b9-a67a-68d43946d2ee)
-)" width="22%" alt="gatinho-hi">
+ ![image](https://github.com/user-attachments/assets/44529a01-ebde-43db-926c-7a819a7c1130)
+
 </div>
 <!--  DIVIDER  -->
-<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88"
-
+<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 <!-- Presentation -->
 
