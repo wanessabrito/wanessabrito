@@ -8,11 +8,12 @@
   <div>
     <!-- cat -->
   </div>
-  <img src="(https://github.com/wanessabrito/wanessabrito/blob/main/Gif_cinnamoroll.gif)" width="22%" alt="cinnamoroll-hi">
+  <img src="https://github.com/wanessabrito/wanessabrito/blob/main/Gif_cinnamoroll.gif" width="22%" >
 </div>
-<!--  DIVIDER  -->
-<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
+<!--  DIVIDER  -->
+
+<img style="display: block; margin-left: auto; margin-right: 0;" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 <!-- Presentation -->
 
