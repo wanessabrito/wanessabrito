@@ -8,7 +8,8 @@
   <div>
     <!-- cat -->
   </div>
-  <img src="[https://github.com/lassiecoder/lassiecoder/assets/17312616/56189985-cfa7-4adb-a986-e5dcf056bddf](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHpodHd2YzF0b2ZnYTN2cmJ6ZzhrMm81Z2RuZDhndnR0NGxtajV1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/elMZLkey6is1lRtI7t/giphy.webp)" width="22%" alt="pikachu-hi">
+  <img src="[![image](https://github.com/user-attachments/assets/cc714505-7769-44b9-a67a-68d43946d2ee)
+)" width="22%" alt="gatinho-hi">
 </div>
 <!--  DIVIDER  -->
 <img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88"
