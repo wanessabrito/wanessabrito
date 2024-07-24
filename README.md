@@ -4,6 +4,19 @@
     <summary><h1 style="display: inline-block"> Hey!👋</h1></summary>
 </div>
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <!-- cat -->
+  </div>
+ ![Gif do site GIPHY ] (https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHpodHd2YzF0b2ZnYTN2cmJ6ZzhrMm81Z2RuZDhndnR0NGxtajV1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/elMZLkey6is1lRtI7t/giphy.webp)
+</div>
+<!--  DIVIDER  -->
+<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+
+
+<!-- Presentation -->
+
+####....👾
 <!--
 **wanessabrito/wanessabrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
