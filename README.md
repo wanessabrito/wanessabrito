@@ -8,7 +8,7 @@
   <div>
     <!-- cat -->
   </div>
- ![Descrição do GIF](./perfil_github/Gif_cinnamoroll) width="22%" alt="pikachu-hi">
+  <img src="(https://github.com/wanessabrito/wanessabrito/blob/main/Gif_cinnamoroll.gif)" width="22%" alt="cinnamoroll-hi">
 </div>
 <!--  DIVIDER  -->
 <img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
@@ -16,7 +16,7 @@
 
 <!-- Presentation -->
 
-####👾
+#### Student of Systems Analysis and Development at UNINTER.🎲
 <!--
 **wanessabrito/wanessabrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
