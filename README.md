@@ -12,7 +12,7 @@
 </div>
 
 <!-- Adicionando uma linha com uma div e ajustando a margem -->
-<div style="border-top: 1px solid #000; margin: -10px 0 0;"></div>
+<div style="border-top: 1px solid #000; margin: -10px 0 0;" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88"></div>
 
 <!-- Presentation -->
 
