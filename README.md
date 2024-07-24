@@ -8,15 +8,15 @@
   <div>
     <!-- cat -->
   </div>
-  <img src="https://github.com/wanessabrito/wanessabrito/blob/main/Gif_cinnamoroll.gif" width="22%" >
+  <img src="https://github.com/wanessabrito/wanessabrito/blob/main/Gif_cinnamoroll.gif" width="30%" >
 </div>
-
-<!-- Linha ajustada com imagem e margem negativa -->
-<img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88" style="display: block; margin-top: -10px; width: 100%;">
 
 <!-- Presentation -->
 
 #### Student of Systems Analysis and Development at UNINTER.🎲
+<!-- Linha ajustada com imagem e margem negativa -->
+<img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88" style="display: block; margin-top: -10px; width: 100%;">
+
 <!--
 **wanessabrito/wanessabrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
