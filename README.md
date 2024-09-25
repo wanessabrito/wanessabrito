@@ -6,15 +6,12 @@
 </div>
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: -5px;">
   <div>
-    <!-- gif -->
+    <!-- github -->
   </div>
   <div align="center">
   <a href="https://github.com/ToninhoMar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ToninhoMar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToninhoMar&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
- <img src="https://github.com/wanessabrito/wanessabrito/blob/main/Gif_cinnamoroll.gif" width="30%" alt="pikachu-hi" style="margin: 0;">
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wanessabrito&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanessabrito&layout=compact&langs_count=7&theme=tokyonight"/>
 <!--  DIVIDER  -->
 <img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88" style="margin-top: -5px;">
 
