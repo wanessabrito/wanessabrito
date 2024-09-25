@@ -4,20 +4,17 @@
     <summary><h1 style="display: inline-block"> Hey!👋</h1></summary>
   </ul>
 </div>
-
-<!-- Flex container for GIF and Top Langs -->
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: -5px;">
-  <!-- gif -->
   <div>
-    <img src="https://github.com/wanessabrito/wanessabrito/blob/main/Gif_cinnamoroll.gif" width="30%" alt="pikachu-hi" style="margin: 0;">
+    <!-- gif -->
   </div>
-
-  <!-- Top Langs -->
-  <div>
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wanessabrito&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Langs" />
-  </div>
+  <div align="center">
+  <a href="https://github.com/ToninhoMar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ToninhoMar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToninhoMar&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
+ <img src="https://github.com/wanessabrito/wanessabrito/blob/main/Gif_cinnamoroll.gif" width="30%" alt="pikachu-hi" style="margin: 0;">
+</div>
 <!--  DIVIDER  -->
 <img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88" style="margin-top: -5px;">
 
@@ -30,4 +27,5 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
 </div><br/>
+
 
