@@ -32,5 +32,7 @@ Olá, sou Wanessa, estudante de Análise e Desenvolvimento de Sistemas na UNINTE
 <img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88" style="margin-top: -5px;">
 <br>
 
-
+<div align="center">
+   <img align="center" alt="GIF" src="https://raw.githubusercontent.com/wanessabrito/wanessabrito/refs/heads/main/tumblr_psn6azqjxT1rzhmyko5_540.webp">
+</div>
 
