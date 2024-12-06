@@ -17,18 +17,21 @@ Olá, sou Wanessa, estudante de Análise e Desenvolvimento de Sistemas na UNINTE
 <br>
 
 <div align="center">
-  <a href="https://github.com/ToninhoMar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanessabrito&layout=compact&langs_count=10&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanessabrito&layout=compact&langs_count=10&theme=tokyonight"/>
-</div>
-    
-## Contato
-
-<div align="center">
   <a href="https://github.com/wanessabrito">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wanessabrito&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanessabrito&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
+</div>
+    
+## Contato
+
+<div> 
+  <a href="mailto:wanessabritoramalho@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/wanessa-brito-b446b2306" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>  
 </div>
 
 <br>
@@ -38,4 +41,3 @@ Olá, sou Wanessa, estudante de Análise e Desenvolvimento de Sistemas na UNINTE
 <div align="center">
    <img align="center" alt="GIF" src="https://raw.githubusercontent.com/wanessabrito/wanessabrito/refs/heads/main/tumblr_psn6azqjxT1rzhmyko5_540.webp">
 </div>
-
