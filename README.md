@@ -42,5 +42,5 @@ Olá, sou Wanessa, estudante de Análise e Desenvolvimento de Sistemas na UNINTE
 <br>
 
 <div align="center">
-   <img align="center" alt="GIF" src="https://raw.githubusercontent.com/wanessabrito/wanessabrito/refs/heads/main/tumblr_psn6azqjxT1rzhmyko5_540.webp">
+   <img align="center" alt="GIF" src="https://github.com/wanessabrito/wanessabrito/blob/main/gif.gif">
 </div>
