@@ -13,17 +13,8 @@ Olá, sou Wanessa, estudante de Análise e Desenvolvimento de Sistemas na UNINTE
   <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
 
 </div>
-<br>
-
-<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88" style="margin-top: -5px;">
 
 <br>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wanessabrito&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wanessabrito&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
     
 ## Contato
 
@@ -35,10 +26,6 @@ Olá, sou Wanessa, estudante de Análise e Desenvolvimento de Sistemas na UNINTE
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>  
 </div>
-
-<br>
-<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88" style="margin-top: -5px;">
-<br>
 
 <div align="center">
    <img align="center" alt="GIF" src="https://github.com/wanessabrito/wanessabrito/blob/main/gif.gif">
